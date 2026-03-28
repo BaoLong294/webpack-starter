@@ -1,1 +1,1 @@
-console.log("Webpack starter is working!");
+console.log('Webpack starter is working!');
